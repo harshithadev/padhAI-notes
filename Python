@@ -1,0 +1,40 @@
+topics included : 
+
+data types
+list
+tuples
+set 
+dictionary
+basic packages
+file handling 
+class
+numpy 
+plotting
+
+
+
+
+
+
+
+
+File handing :
+
+filename = open('file path', 'r') //r is for read mode
+
+s = file.readline() //returns the first line
+
+filename.close()  //closes the link with a file 
+
+shorthand : 
+
+        with open(file path, 'r') as filename : 
+            print(filename.readline())
+            
+You cab use various other file modes to write, append ect
+
+
+
+Class : 
+    
+
